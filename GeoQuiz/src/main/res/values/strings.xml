@@ -3,4 +3,6 @@
     <string name="true_button">true</string>
     <string name="question_text">Canberra is the capital of Australia.</string>
     <string name="false_button">false</string>
+    <string name="string_button_true">you chose the true button!</string>
+    <string name="String_button_false">you chose the false button!</string>
 </resources>
